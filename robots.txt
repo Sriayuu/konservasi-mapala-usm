@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mapala-usm.github.io/berita/sitemap.xml
+Sitemap: https://konservasi-mapala-usm.netlify.app/sitemap.xml
